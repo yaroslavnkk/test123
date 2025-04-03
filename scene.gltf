@@ -264,7 +264,7 @@
   ],
   "images": [
     {
-      "uri": "textures/baton_magic_texture.png_baseColor.png"
+      "uri": "baton_magic_texture.png_baseColor.png"
     }
   ],
   "materials": [
